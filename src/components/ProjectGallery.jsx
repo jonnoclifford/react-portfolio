@@ -2,7 +2,6 @@ import React from 'react';
 import Project from './Project';
 
 function ProjectGallery() {
-  // Assuming projects is an array of project data
   const projects = [
     { id: 1, title: 'Project 1', description: 'Description of Project 1' },
     { id: 2, title: 'Project 2', description: 'Description of Project 2' },
