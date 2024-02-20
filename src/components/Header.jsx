@@ -18,6 +18,9 @@ function Header() {
               <Link to="/" className="nav-link">Home</Link> {/* Use Link component for navigation */}
             </li>
             <li className="nav-item">
+              <Link to="/about" className="nav-link">About</Link> {/* Use Link component for navigation */}
+            </li>
+            <li className="nav-item">
               <Link to="/projects" className="nav-link">Projects</Link> {/* Use Link component for navigation */}
             </li>
             <li className="nav-item">
